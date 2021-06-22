@@ -1,0 +1,255 @@
+﻿TYPE,ST,STNAME,COUNTY,Total households (2014-2018),Renter households (2014-2018),%_renters, County Name ,FIPS_suf
+COUNTY,TX,Texas,Anderson County,"16,459","4,785",29, Anderson ,1
+COUNTY,TX,Texas,Andrews County,"5,508","1,484",27, Andrews ,3
+COUNTY,TX,Texas,Angelina County,"30,783","10,343",34, Angelina ,5
+COUNTY,TX,Texas,Aransas County,"9,432","2,088",22, Aransas ,7
+COUNTY,TX,Texas,Archer County,"3,332",528,16, Archer ,9
+COUNTY,TX,Texas,Armstrong County,708,139,20, Armstrong ,11
+COUNTY,TX,Texas,Atascosa County,"15,387","3,804",25, Atascosa ,13
+COUNTY,TX,Texas,Austin County,"11,041","2,614",24, Austin ,15
+COUNTY,TX,Texas,Bailey County,"2,111",456,22, Bailey ,17
+COUNTY,TX,Texas,Bandera County,"8,242","1,317",16, Bandera ,19
+COUNTY,TX,Texas,Bastrop County,"25,345","5,715",23, Bastrop ,21
+COUNTY,TX,Texas,Baylor County,"1,474",423,29, Baylor ,23
+COUNTY,TX,Texas,Bee County,"8,537","3,088",36, Bee ,25
+COUNTY,TX,Texas,Bell County,"120,241","54,989",46, Bell ,27
+COUNTY,TX,Texas,Bexar County,"632,574","260,541",41, Bexar ,29
+COUNTY,TX,Texas,Blanco County,"4,297",951,22, Blanco ,31
+COUNTY,TX,Texas,Borden County,261,65,25, Borden ,33
+COUNTY,TX,Texas,Bosque County,"7,088","1,554",22, Bosque ,35
+COUNTY,TX,Texas,Bowie County,"33,731","12,206",36, Bowie ,37
+COUNTY,TX,Texas,Brazoria County,"118,762","33,460",28, Brazoria ,39
+COUNTY,TX,Texas,Brazos County,"79,053","42,561",54, Brazos ,41
+COUNTY,TX,Texas,Brewster County,"3,942","1,657",42, Brewster ,43
+COUNTY,TX,Texas,Briscoe County,632,162,26, Briscoe ,45
+COUNTY,TX,Texas,Brooks County,"2,052",771,38, Brooks ,47
+COUNTY,TX,Texas,Brown County,"14,016","3,886",28, Brown ,49
+COUNTY,TX,Texas,Burleson County,"6,754","1,364",20, Burleson ,51
+COUNTY,TX,Texas,Burnet County,"16,849","4,159",25, Burnet ,53
+COUNTY,TX,Texas,Caldwell County,"13,225","4,503",34, Caldwell ,55
+COUNTY,TX,Texas,Calhoun County,"7,604","2,222",29, Calhoun ,57
+COUNTY,TX,Texas,Callahan County,"5,319",917,17, Callahan ,59
+COUNTY,TX,Texas,Cameron County,"123,185","41,075",33, Cameron ,61
+COUNTY,TX,Texas,Camp County,"4,692","1,326",28, Camp ,63
+COUNTY,TX,Texas,Carson County,"2,247",372,17, Carson ,65
+COUNTY,TX,Texas,Cass County,"11,789","2,583",22, Cass ,67
+COUNTY,TX,Texas,Castro County,"2,532","1,037",41, Castro ,69
+COUNTY,TX,Texas,Chambers County,"13,529","2,175",16, Chambers ,71
+COUNTY,TX,Texas,Cherokee County,"17,940","5,050",28, Cherokee ,73
+COUNTY,TX,Texas,Childress County,"2,235",924,41, Childress ,75
+COUNTY,TX,Texas,Clay County,"4,045",609,15, Clay ,77
+COUNTY,TX,Texas,Cochran County,996,217,22, Cochran ,79
+COUNTY,TX,Texas,Coke County,"1,617",407,25, Coke ,81
+COUNTY,TX,Texas,Coleman County,"3,460",995,29, Coleman ,83
+COUNTY,TX,Texas,Collin County,"331,336","113,972",34, Collin ,85
+COUNTY,TX,Texas,Collingsworth County,"1,055",242,23, Collingsworth ,87
+COUNTY,TX,Texas,Colorado County,"7,511","1,370",18, Colorado ,89
+COUNTY,TX,Texas,Comal County,"48,903","12,189",25, Comal ,91
+COUNTY,TX,Texas,Comanche County,"5,260","1,089",21, Comanche ,93
+COUNTY,TX,Texas,Concho County,873,257,29, Concho ,95
+COUNTY,TX,Texas,Cooke County,"15,368","4,988",32, Cooke ,97
+COUNTY,TX,Texas,Coryell County,"22,314","9,346",42, Coryell ,99
+COUNTY,TX,Texas,Cottle County,686,242,35, Cottle ,101
+COUNTY,TX,Texas,Crane County,"1,422",196,14, Crane ,103
+COUNTY,TX,Texas,Crockett County,"1,388",399,29, Crockett ,105
+COUNTY,TX,Texas,Crosby County,"2,044",593,29, Crosby ,107
+COUNTY,TX,Texas,Culberson County,681,221,32, Culberson ,109
+COUNTY,TX,Texas,Dallam County,"2,404",890,37, Dallam ,111
+COUNTY,TX,Texas,Dallas County,"917,276","457,302",50, Dallas ,113
+COUNTY,TX,Texas,Dawson County,"4,322","1,242",29, Dawson ,115
+COUNTY,TX,Texas,Deaf Smith County,"6,139","2,254",37, Deaf Smith ,117
+COUNTY,TX,Texas,Delta County,"2,015",517,26, Delta ,119
+COUNTY,TX,Texas,Denton County,"283,250","100,604",36, Denton ,121
+COUNTY,TX,Texas,DeWitt County,"7,088","1,759",25, DeWitt ,123
+COUNTY,TX,Texas,Dickens County,842,228,27, Dickens ,125
+COUNTY,TX,Texas,Dimmit County,"3,309",915,28, Dimmit ,127
+COUNTY,TX,Texas,Donley County,"1,290",324,25, Donley ,129
+COUNTY,TX,Texas,Duval County,"3,511","1,283",37, Duval ,131
+COUNTY,TX,Texas,Eastland County,"6,460","1,570",24, Eastland ,133
+COUNTY,TX,Texas,Ector County,"51,954","17,855",34, Ector ,135
+COUNTY,TX,Texas,Edwards County,686,126,18, Edwards ,137
+COUNTY,TX,Texas,Ellis County,"55,840","15,080",27, Ellis ,139
+COUNTY,TX,Texas,El Paso County,"265,724","102,506",39, El Paso ,141
+COUNTY,TX,Texas,Erath County,"13,961","4,970",36, Erath ,143
+COUNTY,TX,Texas,Falls County,"5,237","1,373",26, Falls ,145
+COUNTY,TX,Texas,Fannin County,"12,231","3,274",27, Fannin ,147
+COUNTY,TX,Texas,Fayette County,"9,067","1,764",19, Fayette ,149
+COUNTY,TX,Texas,Fisher County,"1,649",427,26, Fisher ,151
+COUNTY,TX,Texas,Floyd County,"2,328",657,28, Floyd ,153
+COUNTY,TX,Texas,Foard County †,557,91,16, Foard ,155
+COUNTY,TX,Texas,Fort Bend County,"230,381","51,397",22, Fort Bend ,157
+COUNTY,TX,Texas,Franklin County,"3,806",876,23, Franklin ,159
+COUNTY,TX,Texas,Freestone County,"6,865","1,702",25, Freestone ,161
+COUNTY,TX,Texas,Frio County,"4,624","1,471",32, Frio ,163
+COUNTY,TX,Texas,Gaines County,"5,737","1,297",23, Gaines ,165
+COUNTY,TX,Texas,Galveston County,"119,181","40,213",34, Galveston ,167
+COUNTY,TX,Texas,Garza County,"1,628",584,36, Garza ,169
+COUNTY,TX,Texas,Gillespie County,"10,717","2,863",27, Gillespie ,171
+COUNTY,TX,Texas,Glasscock County,432,138,32, Glasscock ,173
+COUNTY,TX,Texas,Goliad County,"2,681",422,16, Goliad ,175
+COUNTY,TX,Texas,Gonzales County,"7,214","2,291",32, Gonzales ,177
+COUNTY,TX,Texas,Gray County,"8,000","2,037",25, Gray ,179
+COUNTY,TX,Texas,Grayson County,"47,957","15,626",33, Grayson ,181
+COUNTY,TX,Texas,Gregg County,"45,532","18,526",41, Gregg ,183
+COUNTY,TX,Texas,Grimes County,"8,793","1,999",23, Grimes ,185
+COUNTY,TX,Texas,Guadalupe County,"53,107","12,400",23, Guadalupe ,187
+COUNTY,TX,Texas,Hale County,"11,146","4,400",39, Hale ,189
+COUNTY,TX,Texas,Hall County,"1,301",507,39, Hall ,191
+COUNTY,TX,Texas,Hamilton County,"3,108",591,19, Hamilton ,193
+COUNTY,TX,Texas,Hansford County,"1,855",498,27, Hansford ,195
+COUNTY,TX,Texas,Hardeman County,"1,519",407,27, Hardeman ,197
+COUNTY,TX,Texas,Hardin County,"20,385","4,053",20, Hardin ,199
+COUNTY,TX,Texas,Harris County,"1,583,486","717,841",45, Harris ,201
+COUNTY,TX,Texas,Harrison County,"23,217","6,122",26, Harrison ,203
+COUNTY,TX,Texas,Hartley County,"1,681",612,36, Hartley ,205
+COUNTY,TX,Texas,Haskell County,"2,125",507,24, Haskell ,207
+COUNTY,TX,Texas,Hays County,"70,881","27,051",38, Hays ,209
+COUNTY,TX,Texas,Hemphill County,"1,323",482,36, Hemphill ,211
+COUNTY,TX,Texas,Henderson County,"30,885","7,302",24, Henderson ,213
+COUNTY,TX,Texas,Hidalgo County,"234,879","74,912",32, Hidalgo ,215
+COUNTY,TX,Texas,Hill County,"12,769","3,370",26, Hill ,217
+COUNTY,TX,Texas,Hockley County,"7,946","2,369",30, Hockley ,219
+COUNTY,TX,Texas,Hood County,"21,969","5,150",23, Hood ,221
+COUNTY,TX,Texas,Hopkins County,"13,405","4,040",30, Hopkins ,223
+COUNTY,TX,Texas,Houston County,"8,209","2,549",31, Houston ,225
+COUNTY,TX,Texas,Howard County,"11,036","3,686",33, Howard ,227
+COUNTY,TX,Texas,Hudspeth County †,900,217,24, Hudspeth ,229
+COUNTY,TX,Texas,Hunt County,"32,369","9,923",31, Hunt ,231
+COUNTY,TX,Texas,Hutchinson County,"7,191","1,372",19, Hutchinson ,233
+COUNTY,TX,Texas,Irion County,634,135,21, Irion ,235
+COUNTY,TX,Texas,Jack County,"3,160",576,18, Jack ,237
+COUNTY,TX,Texas,Jackson County,"5,237","1,671",32, Jackson ,239
+COUNTY,TX,Texas,Jasper County,"12,583","2,933",23, Jasper ,241
+COUNTY,TX,Texas,Jeff Davis County,"1,050",200,19, Jeff Davis ,243
+COUNTY,TX,Texas,Jefferson County,"94,002","36,377",39, Jefferson ,245
+COUNTY,TX,Texas,Jim Hogg County,"1,710",473,28, Jim Hogg ,247
+COUNTY,TX,Texas,Jim Wells County,"13,043","4,127",32, Jim Wells ,249
+COUNTY,TX,Texas,Johnson County,"56,433","14,652",26, Johnson ,251
+COUNTY,TX,Texas,Jones County,"5,593","1,492",27, Jones ,253
+COUNTY,TX,Texas,Karnes County,"4,246","1,138",27, Karnes ,255
+COUNTY,TX,Texas,Kaufman County,"37,364","8,855",24, Kaufman ,257
+COUNTY,TX,Texas,Kendall County,"14,159","3,839",27, Kendall ,259
+COUNTY,TX,Texas,Kenedy County,209,138,66, Kenedy ,261
+COUNTY,TX,Texas,Kent County †,318,95,30, Kent ,263
+COUNTY,TX,Texas,Kerr County,"20,766","5,796",28, Kerr ,265
+COUNTY,TX,Texas,Kimble County,"1,948",468,24, Kimble ,267
+COUNTY,TX,Texas,King County †,91,57,63, King ,269
+COUNTY,TX,Texas,Kinney County,"1,170",302,26, Kinney ,271
+COUNTY,TX,Texas,Kleberg County,"10,946","5,257",48, Kleberg ,273
+COUNTY,TX,Texas,Knox County,"1,330",208,16, Knox ,275
+COUNTY,TX,Texas,Lamar County,"19,313","6,761",35, Lamar ,277
+COUNTY,TX,Texas,Lamb County,"4,754","1,409",30, Lamb ,279
+COUNTY,TX,Texas,Lampasas County,"7,738","1,889",24, Lampasas ,281
+COUNTY,TX,Texas,La Salle County,"2,216",701,32, La Salle ,283
+COUNTY,TX,Texas,Lavaca County,"7,756","1,936",25, Lavaca ,285
+COUNTY,TX,Texas,Lee County,"6,104","1,292",21, Lee ,287
+COUNTY,TX,Texas,Leon County,"6,249","1,342",21, Leon ,289
+COUNTY,TX,Texas,Liberty County,"26,203","6,702",26, Liberty ,291
+COUNTY,TX,Texas,Limestone County,"8,169","2,053",25, Limestone ,293
+COUNTY,TX,Texas,Lipscomb County,"1,256",330,26, Lipscomb ,295
+COUNTY,TX,Texas,Live Oak County,"3,675",705,19, Live Oak ,297
+COUNTY,TX,Texas,Llano County,"8,491","1,700",20, Llano ,299
+COUNTY,TX,Texas,Loving County †,33,12,36, Loving ,301
+COUNTY,TX,Texas,Lubbock County,"112,185","50,234",45, Lubbock ,303
+COUNTY,TX,Texas,Lynn County,"2,133",666,31, Lynn ,305
+COUNTY,TX,Texas,McCulloch County,"3,255",820,25, McCulloch ,307
+COUNTY,TX,Texas,McLennan County,"89,034","36,824",41, McLennan ,309
+COUNTY,TX,Texas,McMullen County,223,60,27, McMullen ,311
+COUNTY,TX,Texas,Madison County,"4,201","1,108",26, Madison ,313
+COUNTY,TX,Texas,Marion County,"4,459",961,22, Marion ,315
+COUNTY,TX,Texas,Martin County,"1,626",376,23, Martin ,317
+COUNTY,TX,Texas,Mason County,"1,667",483,29, Mason ,319
+COUNTY,TX,Texas,Matagorda County,"13,636","4,323",32, Matagorda ,321
+COUNTY,TX,Texas,Maverick County,"16,307","5,541",34, Maverick ,323
+COUNTY,TX,Texas,Medina County,"15,470","3,121",20, Medina ,325
+COUNTY,TX,Texas,Menard County,992,358,36, Menard ,327
+COUNTY,TX,Texas,Midland County,"55,980","18,619",33, Midland ,329
+COUNTY,TX,Texas,Milam County,"9,381","2,949",31, Milam ,331
+COUNTY,TX,Texas,Mills County,"1,750",323,18, Mills ,333
+COUNTY,TX,Texas,Mitchell County,"2,441",542,22, Mitchell ,335
+COUNTY,TX,Texas,Montague County,"7,995","2,315",29, Montague ,337
+COUNTY,TX,Texas,Montgomery County,"192,823","55,283",29, Montgomery ,339
+COUNTY,TX,Texas,Moore County,"6,626","2,324",35, Moore ,341
+COUNTY,TX,Texas,Morris County,"5,048","1,288",26, Morris ,343
+COUNTY,TX,Texas,Motley County,465,150,32, Motley ,345
+COUNTY,TX,Texas,Nacogdoches County,"23,904","10,459",44, Nacogdoches ,347
+COUNTY,TX,Texas,Navarro County,"17,397","5,306",30, Navarro ,349
+COUNTY,TX,Texas,Newton County,"4,978",675,14, Newton ,351
+COUNTY,TX,Texas,Nolan County,"5,469","1,801",33, Nolan ,353
+COUNTY,TX,Texas,Nueces County,"128,926","54,354",42, Nueces ,355
+COUNTY,TX,Texas,Ochiltree County,"3,443",937,27, Ochiltree ,357
+COUNTY,TX,Texas,Oldham County,527,119,23, Oldham ,359
+COUNTY,TX,Texas,Orange County,"31,989","7,676",24, Orange ,361
+COUNTY,TX,Texas,Palo Pinto County,"10,312","2,812",27, Palo Pinto ,363
+COUNTY,TX,Texas,Panola County,"8,827","2,244",25, Panola ,365
+COUNTY,TX,Texas,Parker County,"44,255","9,815",22, Parker ,367
+COUNTY,TX,Texas,Parmer County,"3,318","1,017",31, Parmer ,369
+COUNTY,TX,Texas,Pecos County,"4,557","1,322",29, Pecos ,371
+COUNTY,TX,Texas,Polk County,"17,803","4,202",24, Polk ,373
+COUNTY,TX,Texas,Potter County,"43,944","19,629",45, Potter ,375
+COUNTY,TX,Texas,Presidio County,"2,627","1,224",47, Presidio ,377
+COUNTY,TX,Texas,Rains County,"4,331",924,21, Rains ,379
+COUNTY,TX,Texas,Randall County,"49,187","14,627",30, Randall ,381
+COUNTY,TX,Texas,Reagan County,"1,147",346,30, Reagan ,383
+COUNTY,TX,Texas,Real County,"1,227",227,19, Real ,385
+COUNTY,TX,Texas,Red River County,"5,048","1,215",24, Red River ,387
+COUNTY,TX,Texas,Reeves County,"3,713","1,088",29, Reeves ,389
+COUNTY,TX,Texas,Refugio County,"2,577",748,29, Refugio ,391
+COUNTY,TX,Texas,Roberts County,311,79,25, Roberts ,393
+COUNTY,TX,Texas,Robertson County,"6,358","1,553",24, Robertson ,395
+COUNTY,TX,Texas,Rockwall County,"31,649","6,228",20, Rockwall ,397
+COUNTY,TX,Texas,Runnels County,"3,749","1,138",30, Runnels ,399
+COUNTY,TX,Texas,Rusk County,"17,960","4,193",23, Rusk ,401
+COUNTY,TX,Texas,Sabine County,"4,099",482,12, Sabine ,403
+COUNTY,TX,Texas,San Augustine County,"3,356",667,20, San Augustine ,405
+COUNTY,TX,Texas,San Jacinto County,"9,487","1,692",18, San Jacinto ,407
+COUNTY,TX,Texas,San Patricio County,"23,121","7,518",33, San Patricio ,409
+COUNTY,TX,Texas,San Saba County,"2,104",701,33, San Saba ,411
+COUNTY,TX,Texas,Schleicher County,"1,105",234,21, Schleicher ,413
+COUNTY,TX,Texas,Scurry County,"5,884","1,385",24, Scurry ,415
+COUNTY,TX,Texas,Shackelford County,"1,234",237,19, Shackelford ,417
+COUNTY,TX,Texas,Shelby County,"9,292","2,420",26, Shelby ,419
+COUNTY,TX,Texas,Sherman County,"1,055",251,24, Sherman ,421
+COUNTY,TX,Texas,Smith County,"77,195","26,351",34, Smith ,423
+COUNTY,TX,Texas,Somervell County,"3,239",901,28, Somervell ,425
+COUNTY,TX,Texas,Starr County,"16,238","4,229",26, Starr ,427
+COUNTY,TX,Texas,Stephens County †,"3,268",625,19, Stephens ,429
+COUNTY,TX,Texas,Sterling County,462,64,14, Sterling ,431
+COUNTY,TX,Texas,Stonewall County,582,142,24, Stonewall ,433
+COUNTY,TX,Texas,Sutton County,"1,484",485,33, Sutton ,435
+COUNTY,TX,Texas,Swisher County,"2,514",727,29, Swisher ,437
+COUNTY,TX,Texas,Tarrant County,"698,995","276,285",40, Tarrant ,439
+COUNTY,TX,Texas,Taylor County,"49,482","20,465",41, Taylor ,441
+COUNTY,TX,Texas,Terrell County †,396,65,16, Terrell ,443
+COUNTY,TX,Texas,Terry County,"4,041","1,264",31, Terry ,445
+COUNTY,TX,Texas,Throckmorton County,703,205,29, Throckmorton ,447
+COUNTY,TX,Texas,Titus County,"10,694","3,610",34, Titus ,449
+COUNTY,TX,Texas,Tom Green County,"43,131","16,170",37, Tom Green ,451
+COUNTY,TX,Texas,Travis County,"458,484","219,276",48, Travis ,453
+COUNTY,TX,Texas,Trinity County,"5,918","1,228",21, Trinity ,455
+COUNTY,TX,Texas,Tyler County,"7,020","1,030",15, Tyler ,457
+COUNTY,TX,Texas,Upshur County,"14,036","3,074",22, Upshur ,459
+COUNTY,TX,Texas,Upton County,"1,305",353,27, Upton ,461
+COUNTY,TX,Texas,Uvalde County,"8,683","2,260",26, Uvalde ,463
+COUNTY,TX,Texas,Val Verde County,"15,429","5,716",37, Val Verde ,465
+COUNTY,TX,Texas,Van Zandt County,"19,615","4,467",23, Van Zandt ,467
+COUNTY,TX,Texas,Victoria County,"32,544","11,113",34, Victoria ,469
+COUNTY,TX,Texas,Walker County,"21,636","10,565",49, Walker ,471
+COUNTY,TX,Texas,Waller County,"14,807","4,791",32, Waller ,473
+COUNTY,TX,Texas,Ward County,"3,956","1,147",29, Ward ,475
+COUNTY,TX,Texas,Washington County,"12,381","3,199",26, Washington ,477
+COUNTY,TX,Texas,Webb County,"73,659","27,642",38, Webb ,479
+COUNTY,TX,Texas,Wharton County,"15,256","5,036",33, Wharton ,481
+COUNTY,TX,Texas,Wheeler County,"2,254",839,37, Wheeler ,483
+COUNTY,TX,Texas,Wichita County,"47,951","18,667",39, Wichita ,485
+COUNTY,TX,Texas,Wilbarger County,"5,263","1,962",37, Wilbarger ,487
+COUNTY,TX,Texas,Willacy County,"5,810","1,465",25, Willacy ,489
+COUNTY,TX,Texas,Williamson County,"174,754","54,532",31, Williamson ,491
+COUNTY,TX,Texas,Wilson County,"15,820","2,724",17, Wilson ,493
+COUNTY,TX,Texas,Winkler County,"2,572",473,18, Winkler ,495
+COUNTY,TX,Texas,Wise County,"22,080","5,098",23, Wise ,497
+COUNTY,TX,Texas,Wood County,"16,531","3,310",20, Wood ,499
+COUNTY,TX,Texas,Yoakum County,"2,676",555,21, Yoakum ,501
+COUNTY,TX,Texas,Young County,"7,105","1,558",22, Young ,503
+COUNTY,TX,Texas,Zapata County,"4,405","1,302",30, Zapata ,505
+COUNTY,TX,Texas,Zavala County,"3,509","1,031",29, Zavala ,507

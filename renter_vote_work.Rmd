@@ -1,0 +1,93 @@
+---
+title: "Renter Pop vs Voting by County"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(readxl)
+library(janitor)
+library(scales)
+```
+
+## Create chart of Democratic vote share vs Percent Renter Population
+
+for Texas counties
+
+```{r data_in}
+president <- read_csv("president.csv") %>% 
+  clean_names()
+# presidential vote share data
+# from Texas Leg Counsel: https://data.capitol.texas.gov/dataset/2020_general
+president_county <- president %>%
+  mutate(fips_suf = substr(cntyvtd,1,3)) %>%
+    mutate(total = biden_d_20g_president+
+             trump_r_20g_president + 
+             jorgensen_l_20g_president +
+             hawkins_g_20g_president +
+             write_in_w_20g_president) %>%
+  group_by(fips_suf) %>%
+  summarise(biden = sum(biden_d_20g_president),
+            total_voters = sum(total)) %>%
+  mutate(percent_dem_vote = biden/(total_voters))
+  
+# From NLIHC, data minimally pre-processed in Excel and saved to .csv
+# https://reports.nlihc.org/oor/texas
+
+tx_2020_oor <- read_csv("TX-2020-OOR.csv")  %>% 
+  clean_names() 
+tx_2020_oor$fips_suf <- str_pad(tx_2020_oor$fips_suf, 3, pad = "0")
+tx_2020_oor$percent_renters <- tx_2020_oor$percent_renters/100
+
+county_data <- president_county %>%
+  inner_join(tx_2020_oor, by = "fips_suf")
+
+```
+
+##  Plots
+
+```{r , echo=FALSE}
+
+p <- ggplot(data = county_data, 
+    aes(x=percent_renters, y=percent_dem_vote , size=total_voters))+
+    geom_point() +
+    scale_y_continuous(labels=percent)+
+    scale_x_continuous(labels=percent) +
+  scale_size_continuous(labels=comma)+ 
+  theme_classic()+
+  labs(
+    title = "Texas Counties: Dem Vote Increases with Renter Population",
+    subtitle = "(2020 Presidential Election Results by County)",
+    caption = "Data from the NLIHC 2020 Out of Reach Report and Texas Legislative Council.",
+    x = "County Percent Renters",
+    y = "County Percent Democratic Vote",
+    size = "Total Votes"
+  )  + 
+  annotate(
+    geom = "curve", x = .59, y = .515, xend = .545, yend = .43, 
+    curvature = .3, arrow = arrow(length = unit(2, "mm"))
+  ) +
+  annotate(geom = "text", x = .59, y = .515, label = "Brazos", hjust = "left") + 
+  annotate(
+    geom = "curve", x = .195, y = .60, xend = .215, yend = 0.56, 
+    curvature = -.3, arrow = arrow(length = unit(2, "mm"))
+  ) +
+  annotate(geom = "text", x = .195, y = .60, label = "Fort Bend", hjust = "right")  + 
+  annotate(
+    geom = "curve", x = .56, y = .76, xend = .49, yend = 0.72, 
+    curvature = .3, arrow = arrow(length = unit(2, "mm"))
+  ) +
+  annotate(geom = "text", x = .56, y = .76, label = "Travis", hjust = "left")
+
+
+# Print the plot 
+p
+
+```
+```{r , echo=FALSE}
+
+
+ggsave( "vote_breakdown.png",p, dpi = 600)
+```
+
